@@ -1,30 +1,35 @@
-## Hi there 👋
+# Hi there, I'm Bablu Kumar 👋
 
- 
-# 💫 About Me:
-🔭 I’m currently working on<python>
-👯 I’m looking to collaborate on>🤝
-I’m looking for help
-🌱 I’m currently learning
-💬 Ask me about
-⚡ Fun fact
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/bablu-kumar-47607a305) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@bablukumar31229) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bk788227@gmail.com) 
-
-
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Bablu-star-coder&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Bablu-star-coder&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Bablu-star-coder&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+I am a first-year **BCA (AI & ML)** student at CMR University, Bengaluru. I am building my foundation in data science, mathematics, and intelligent systems.
 
 ---
 
+### 🛠️ Tech Stack & Tools
 
+#### 🌐 Languages
+![Python](https://shields.io) ![C](https://shields.io)
 
+#### 📊 Libraries (Learning)
+![NumPy](https://shields.io) ![Pandas](https://shields.io)
 
+#### ⚙️ Tools
+![Git](https://shields.io) ![GitHub](https://shields.io) ![VS Code](https://shields.io)
 
--->
+---
+
+### 📈 GitHub Statistics
+Here is a live look at my coding activity and progress:
+
+<p align="left">
+  <img src="https://vercel.app" alt="GitHub Stats" height="180"/>
+  <img src="https://vercel.app" alt="Top Languages" height="180"/>
+</p>
+
+---
+
+### 🔗 Let's Connect!
+💼 **LinkedIn:** [Bablu Kumar](https://linkedin.com)  
+📸 **Instagram:** [@its_me_bablu_9835](https://www.instagram.com/its_me_bablu_9835?igsh=MWdvbzRyMHFqczF0aA==)  
+
+---
+🌐 *Profile views tracker:* ![Visitor Counter](https://glitch.me)
