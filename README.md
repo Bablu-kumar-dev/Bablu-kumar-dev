@@ -17,19 +17,16 @@ I am a first-year **BCA (AI & ML)** student at CMR University, Bengaluru. I am b
 
 ---
 
-### 📈 GitHub Statistics
-Here is a live look at my coding activity and progress:
+### 🚀 Featured Projects
+Here are the core projects I am currently developing during my academic track:
 
-<p align="left">
-  <img src="https://vercel.app" alt="GitHub Stats" height="180"/>
-  <img src="https://vercel.app" alt="Top Languages" height="180"/>
-</p>
+| Project Name | Tech Stack | Description |
+| :--- | :--- | :--- |
+| **Financial Calculator** | Python / C | A logic-driven terminal application built to compute compound interest, savings metrics, and monthly budget balances. |
+| **AI Personal Finance Analyzer** | Python / NumPy | An intelligent analytics project that processes spending patterns to categorize expenses and predict monthly savings. |
 
 ---
 
 ### 🔗 Let's Connect!
 💼 **LinkedIn:** [Bablu Kumar](https://linkedin.com)  
-📸 **Instagram:** [@its_me_bablu_9835](https://www.instagram.com/its_me_bablu_9835?igsh=MWdvbzRyMHFqczF0aA==)  
-
----
-🌐 *Profile views tracker:* ![Visitor Counter](https://glitch.me)
+📸 **Instagram:** [@its_me_bablu_9835](https://instagram.com)  
