@@ -8,7 +8,7 @@ I am a first-year **BCA (AI & ML)** student at CMR University, Bengaluru. I am b
 
 | Category | Technologies |
 | :--- | :--- |
-| **🌐 Languages** | c, python, Html Language |
+| **🌐 Languages** | C, Python, Html Language |
 | **📊 Libraries** | NumPy, Pandas *(Learning)* |
 | **⚙️ Tools** | Git, GitHub, VS Code |
 
