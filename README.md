@@ -8,11 +8,12 @@ I am a first-year **BCA (AI & ML)** student at CMR University, Bengaluru. I am b
 
 | Category | Technologies |
 | :--- | :--- |
-| **🌐 Languages** | Python, Html, css Language |
+| **🌐 Languages** | c, python, Html Language |
 | **📊 Libraries** | NumPy, Pandas *(Learning)* |
 | **⚙️ Tools** | Git, GitHub, VS Code |
 
 ---
+
 ### 📜 Certifications
 - Generative AI & ChatGPT (CMR University) — Scored A+  
 - Other certificates or achievements
